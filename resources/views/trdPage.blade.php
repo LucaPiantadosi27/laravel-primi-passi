@@ -9,6 +9,7 @@
     <title>Prima pagina di Laravel</title>
 </head>
 <body>
+
     <header>
 
         <nav class="navbar navbar-expand-lg bg-dark-subtle p-2   ">
@@ -42,8 +43,8 @@
 
     </header>
 
-    <div class="container">
-        <h1>Hello Laravel</h1>
+    <div class="container py-3 ">
+        <h1>Trd Page</h1>
     </div>
 
     {{-- Bootstrap --}}
