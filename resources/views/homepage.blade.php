@@ -43,7 +43,9 @@
     </header>
 
     <div class="container">
-        <h1>Hello Laravel</h1>
+        <h1>
+          {{$saluto}}
+        </h1>
     </div>
 
     {{-- Bootstrap --}}
